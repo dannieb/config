@@ -1,5 +1,3 @@
-let $PYTHONPATH=$PYTHONPATH . "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages" 
-
 filetype off
 call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
